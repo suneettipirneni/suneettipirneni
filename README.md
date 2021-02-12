@@ -1,4 +1,12 @@
-### Hello! My name is Suneet Tipirneni!
+```javascript
+function introduce(firstName, lastName) {
+  return `Greetings! My name is ${firstName} ${lastName}!`
+}
+
+introduce("Suneet", "Tipirneni")
+```
+
+### Greetings! My name is Suneet Tipirneni!
 
 #### Here's a little about me:
 
@@ -9,6 +17,7 @@
   - Linux Kernel
   - TypeScript
   - C++
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact:
   - I like fancy cars
 
