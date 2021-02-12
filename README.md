@@ -1,10 +1,7 @@
 ### A *quick* Introduction:
 
 ```javascript
-function introduce(firstName, lastName) {
-  return `Greetings! My name is ${firstName} ${lastName}!`
-}
-
+const introduce = (firstName, lastName) => `Greetings! My name is ${firstName} ${lastName}!`
 introduce("Suneet", "Tipirneni")
 ```
 
