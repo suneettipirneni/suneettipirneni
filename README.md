@@ -14,7 +14,6 @@ introduce("Suneet", "Tipirneni")
 - 🌱 I’m currently learning ...
   - Compiler Design
   - Linux Kernel
-  - TypeScript
   - C++
 - 😄 Pronouns: He/Him
 
