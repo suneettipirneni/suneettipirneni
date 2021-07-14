@@ -9,7 +9,7 @@ introduce("Suneet", "Tipirneni")
 
 #### Here's a little about me:
 
-- 📚 Junior at University of Central Florida
+- 📚 Senior at University of Central Florida
 - 🔭 I’m currently working on Full Stack Code + Design
 - 🌱 I’m currently learning ...
   - Compiler Design
