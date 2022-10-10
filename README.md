@@ -1,19 +1,10 @@
-### A *quick* Introduction:
-
-```javascript
-const introduce = (firstName, lastName) => `Greetings! My name is ${firstName} ${lastName}!`
-introduce("Suneet", "Tipirneni")
-```
-
 ### Greetings! My name is Suneet Tipirneni!
 
 #### Here's a little about me:
 
-- 📚 Senior at University of Central Florida
+- 📚 Graduate Student at University of Central Florida
 - 🔭 I’m currently working on Full Stack Code + Design
 - 🌱 I’m currently learning ...
-  - Compiler Design
-  - Linux Kernel
   - Rust
 - 😄 Pronouns: He/Him
 
