@@ -2,10 +2,11 @@
 
 #### Here's a little about me:
 
-- 📚 Graduate Student at University of Central Florida
-- 🔭 I’m currently working on Full Stack Code + Design
+- 📚 Computer Vision graduate student at University of Central Florida
+- 🔭 I’m currently working on any random thing that comes to mind.
 - 🌱 I’m currently learning ...
-  - Rust
+  - Diffusion Models
+  - Transformers
 - 😄 Pronouns: He/Him
 
 <!--
