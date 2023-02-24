@@ -33,6 +33,10 @@ You can reach me via:
 - [Discord](https://discordapp.com/users/386337006764032002)
 - Email: suneet.tipirneni@knights.ucf.edu
 
+### Checkout my blog
+
+https://suneettipirneni.stream/
+
 <!--
 **suneettipirneni/suneettipirneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
