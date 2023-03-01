@@ -27,7 +27,6 @@ main = do print $ introduce me
 - 🌱 I’m currently learning
   - Diffusion Models
   - Transformers
-- 😄 Pronouns: He/Him
 
 You can reach me via:
 - [Discord](https://discordapp.com/users/386337006764032002)
