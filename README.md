@@ -20,6 +20,7 @@ main = do print $ introduce me
 
 - 🔭 I’m currently working on any random thing that comes to mind.
 - 👨‍💻 I'm interested in
+  - AI/ML  
   - Functional programming
   - Rust
   - Haskell
