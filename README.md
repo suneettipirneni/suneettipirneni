@@ -9,12 +9,12 @@ data Student = Student { name :: String, age :: Int, major :: String }
 instance Intro Student where
   introduce a = "I'm " ++ name a ++ " and I'm " ++ show (age a) ++ " years old, and I am majoring in " ++ major a
 
-me = Student "Suneet" 23 "Computer Vision"
+me = Student "Suneet" 24 "Computer Vision"
 
 main = do print $ introduce me
 ```
 
-**``I'm Suneet and I'm 23 years old, and I am majoring in Computer Vision``**
+**``I'm Suneet and I'm 24 years old, and I am majoring in Computer Vision``**
 
 #### Here's a little about me:
 
