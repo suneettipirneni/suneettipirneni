@@ -31,7 +31,7 @@ main = do print $ introduce me
 
 You can reach me via:
 - [Discord](https://discordapp.com/users/386337006764032002)
-- Email: suneet.tipirneni@knights.ucf.edu
+- Email: su311532@ucf.edu
 
 ### Checkout my blog
 
