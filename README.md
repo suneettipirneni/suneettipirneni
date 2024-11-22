@@ -35,7 +35,7 @@ You can reach me via:
 
 ### Checkout my blog
 
-https://suneettipirneni.stream/blog
+https://suneettipirneni.dev/blog
 
 <!--
 **suneettipirneni/suneettipirneni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
